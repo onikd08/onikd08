@@ -41,23 +41,18 @@ I'm a Full Stack Developer who builds modern, fast, and scalable web apps.
 
 ## 📌 Featured Projects
 
-### 🚧 Project 1
+### 🚧 Skill Bridge - Tutoring Platform
 
 * ⚡ Modern full-stack app
-* 🧰 Next.js, TypeScript, PostgreSQL
-* 🔗 [https://github.com/onikd08/project](https://github.com/onikd08/project)
+* 🧰 Next.js, Express, TypeScript, Prisma, PostgreSQL, Stripe, Gemini AI 
+* 🔗 [https://skill-bridge-frontend-six.vercel.app](Live)
 
-### 🚧 Project 2
+### 🚧 Planora - Event Management Platform
 
-* ⚡ Responsive web app
-* 🧰 React, Node.js
-* 🔗 [https://github.com/onikd08/project](https://github.com/onikd08/project)
+* ⚡ Modern full-stack app
+* 🧰 Next.js, Express, TypeScript, Prisma, PostgreSQL, Stripe, Gemini AI 
+* 🔗 [https://planora-frontend-ruddy.vercel.app](Live)
 
-### 🚧 Project 3
-
-* ⚡ Scalable backend system
-* 🧰 Node.js, Express, MongoDB
-* 🔗 [https://github.com/onikd08/project](https://github.com/onikd08/project)
 
 ---
 
