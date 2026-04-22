@@ -11,7 +11,6 @@
 
 I'm a Full Stack Developer who builds modern, fast, and scalable web apps.
 
-* ⚡ JavaScript | TypeScript | Next.js
 * 🛠️ Build → Break → Fix → Repeat
 * 📚 Always learning something new
 * 🎯 Focused on clean code & great UX
