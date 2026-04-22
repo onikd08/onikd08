@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 
-<img src="https://chatgpt.com/s/m_69e8f0c4c2d48191a3b6b6d815cf5b3a](https://i.ibb.co/1fQcCJ8h/Gemini-Generated-Image-rnzeejrnzeejrnze.png" alt="Profile Banner" width="100%" /> 
+<img src="https://i.ibb.co/1fQcCJ8h/Gemini-Generated-Image-rnzeejrnzeejrnze.png" alt="Profile Banner" width="100%" /> 
 
 <h1 align="center">Hi! I'm Anik Das </h1> 
 <p align="center">
