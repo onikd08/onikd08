@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 
-<img src="https://chatgpt.com/s/m_69e8f0c4c2d48191a3b6b6d815cf5b3a" alt="Profile Banner" width="100%" /> 
+<img src="https://chatgpt.com/s/m_69e8f0c4c2d48191a3b6b6d815cf5b3a](https://i.ibb.co/1fQcCJ8h/Gemini-Generated-Image-rnzeejrnzeejrnze.png" alt="Profile Banner" width="100%" /> 
 
 <h1 align="center">Hi! I'm Anik Das </h1> 
 <p align="center">
@@ -34,23 +34,7 @@ I'm a Full Stack Developer who builds modern, fast, and scalable web apps.
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,mongodb,postgres,tailwind,docker,aws,git,github" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onikd08&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onikd08&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onikd08&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=c++,python,java,js,ts,nodejs,express,react,nextjs,django,spring,mongodb,postgres,tailwind,docker,aws,git,github" />
 </p>
 
 ---
