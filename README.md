@@ -1,6 +1,4 @@
-<!-- Banner Image -->
 
-<img src="https://i.ibb.co/1fQcCJ8h/Gemini-Generated-Image-rnzeejrnzeejrnze.png" alt="Profile Banner" width="100%" /> 
 
 <h1 align="center">Hi! I'm Anik Das </h1> 
 <p align="center">
@@ -45,13 +43,13 @@ I'm a Full Stack Developer who builds modern, fast, and scalable web apps.
 
 * ⚡ Modern full-stack app
 * 🧰 Next.js, Express, TypeScript, Prisma, PostgreSQL, Stripe, Gemini AI 
-* 🔗 [https://skill-bridge-frontend-six.vercel.app](Live)
+* 🔗 [https://skill-bridge-frontend-six.vercel.app](https://skill-bridge-frontend-six.vercel.app)
 
 ### 🚧 Planora - Event Management Platform
 
 * ⚡ Modern full-stack app
 * 🧰 Next.js, Express, TypeScript, Prisma, PostgreSQL, Stripe, Gemini AI 
-* 🔗 [https://planora-frontend-ruddy.vercel.app](Live)
+* 🔗 [https://planora-frontend-ruddy.vercel.app](https://planora-frontend-ruddy.vercel.app)
 
 
 ---
