@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi! I'm Anik Das </h1> 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F731CF&center=true&width=435&lines=Full+Stack+Developer;%7C+JavaScript+%7C+TypeScript+%7C+Python+%7C+Java+%7C;Music+Lover;Build+%2C+Break+%2C+Fix+%F0%9F%94%A5" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F731CF&center=true&width=435&lines=Full+Stack+Developer;C+%7C+JavaScript+%7C+Python+%7C+Java+%7C;Music+Lover;Build+%2C+Break+%2C+Fix+%F0%9F%94%A5" alt="Typing SVG" /></a>
 </p>
 
 ---
