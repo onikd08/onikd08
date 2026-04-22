@@ -34,7 +34,7 @@ I'm a Full Stack Developer who builds modern, fast, and scalable web apps.
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c++,python,java,js,ts,nodejs,express,react,nextjs,django,spring,mongodb,postgres,tailwind,docker,aws,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,nodejs,express,react,nextjs,django,spring,mongodb,postgres,tailwind,docker,aws,git,github" />
 </p>
 
 ---
