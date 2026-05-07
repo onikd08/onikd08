@@ -22,7 +22,7 @@ I'm a Full Stack Developer who builds modern, fast, and scalable web apps.
 ## 🚀 Current Activities
 
 * 🚀 Building full-stack projects
-* 🧠 Exploring Spring, OSGi, and backend architecture
+* 🧠 Exploring GO and trying to use it in backend
 * 🤝 Open to collaboration on cool ideas
 * ⚡ Improving every single day
 
